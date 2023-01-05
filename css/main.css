@@ -197,7 +197,7 @@
         /*Start landing section*/
         
         .landing {
-            background-image: url(images/owl.jpg);
+            background-image: url(../images/owl.jpg);
             background-size: cover;
             position: relative;
             min-height: 100vh;
@@ -344,7 +344,7 @@
         .design {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
-            background-image: url(/images/design-features.jpg);
+            background-image: url(../images/design-features.jpg);
             height: 500px;
             background-size: cover;
             position: relative;
@@ -590,7 +590,7 @@
         .stats {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
-            background-image: url("/images/state.png");
+            background-image: url("../images/state.png");
             background-size: cover;
             position: relative;
             text-align: center;
@@ -800,7 +800,7 @@
         .qoute {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
-            background-image: url("/images/pf7.jpg");
+            background-image: url("../images/pf7.jpg");
             background-size: cover;
             position: relative;
             text-align: center;
@@ -938,7 +938,7 @@
         .subscribe {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
-            background-image: url("images/bg-sub.jpg");
+            background-image: url("../images/bg-sub.jpg");
             background-size: cover;
             position: relative;
             color: white;
@@ -1109,7 +1109,7 @@
         .footer {
             padding-top: calc(var(--section-padding) / 2);
             padding-bottom: calc(var(--section-padding) / 2);
-            background-image: url("images/footer.jpg");
+            background-image: url("../images/footer.jpg");
             background-size: cover;
             text-align: center;
             color: white;
